@@ -1,0 +1,30 @@
+input[type="text"] {
+    margin-left: 10px;
+}
+button {
+    cursor: pointer;
+    border: 1px solid #eee;
+}
+button:hover {
+    background: #F44336;
+    border: 1px solid #eee;
+    color: #fff;
+}
+#right_in {
+    margin-right: 20px;
+}
+ul {
+    cursor: pointer;
+}
+ul li {
+    background: #F44336;
+    margin-left: 2px;
+    list-style: none;
+    width: 20px;
+    display: inline-block;
+    position: relative;
+    bottom: 0;
+}
+ul li:hover {
+    background: #ddd;
+}
